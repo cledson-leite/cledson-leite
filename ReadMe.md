@@ -20,16 +20,9 @@
   
 <br>
 
-<div align="right" width=50%>
-
 ![Cledson Leite](cover_programmer.jpg)
 
-</div>
-
-<div align="left">
-
 >"Nada neste mundo supera a boa e velha persistência. O talento não supera. Nada mais comum do que falhas talentosas. O gênio não vence. Gênios não reconhecidos é         praticamente um clichê. A educação não excede. O mundo está cheio de tolos educados. Persistência e determinação sozinhas são poderosas."
-</div>
 
 Tenho uma boa experiência com nodeJs através de alguns trabalhos frelancers para alguns paises (India, Paquistão, Portugal, etc) mas principalmente por ter desenvolvido um app mobile em dart flutter com o backend totalmente feito em nodeJS ( desenvolvimento de um crawler que alimentava um database SQL desenvolvido dentro de um container Docker o que facilitou a implementação desta aplicaçao rodando em segundo plano de forma redundante em uma instancia EC2 da AWS, (PostgreeSql), uma api que integrava o database alimentado pelo crawler anterior com o front end, api que integrava o cadastro e controle de acesso do front end com uso de um database NoSql (mongoDb).
 
@@ -61,10 +54,6 @@ Tenho uma boa experiência com nodeJs através de alguns trabalhos frelancers pa
 </div>
 
 </div>
-<div align="center">
 
-![Estatisticas](https://github-readme-stats.vercel.app/api?username=cledson-leite&show_icons=true&theme=dracula&custom_title=Minhas_Estatísticas)
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=cledson-leite&theme=dracula&count_lang=10&custom_title=Linguagens_Mais_Usadas)
-</div>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cledson-leite&repo=cpf_brasil&theme=dracula)](https://github.com/cledson-leite/cpf_brasil)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cledson-leite&repo=cledson-leite&theme=dracula)](https://github.com/cledson-leite/cledson-leite)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=cledson-leite&theme=dracula&count_lang=10&custom_title=Linguagens_Mais_Usadas) ![Estatisticas](https://github-readme-stats.vercel.app/api?username=cledson-leite&show_icons=true&theme=dracula&custom_title=Minhas_Estatísticas)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cledson-leite&repo=cpf_brasil&theme=dracula)](https://github.com/cledson-leite/cpf_brasil) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cledson-leite&repo=cledson-leite&theme=dracula)](https://github.com/cledson-leite/cledson-leite)
