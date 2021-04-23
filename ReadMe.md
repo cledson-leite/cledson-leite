@@ -56,4 +56,5 @@ Tenho uma boa experiência com nodeJs através de alguns trabalhos frelancers pa
 </div>
 
 ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=cledson-leite&theme=dracula&count_lang=10&custom_title=Linguagens_Mais_Usadas) ![Estatisticas](https://github-readme-stats.vercel.app/api?username=cledson-leite&show_icons=true&theme=dracula&custom_title=Minhas_Estatísticas)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cledson-leite&repo=cpf_brasil&theme=dracula)](https://github.com/cledson-leite/cpf_brasil) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cledson-leite&repo=cledson-leite&theme=dracula)](https://github.com/cledson-leite/cledson-leite)
