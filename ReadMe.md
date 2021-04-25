@@ -50,7 +50,7 @@ Tenho uma boa experiência com nodeJs através de alguns trabalhos frelancers pa
 ### :book: **Estudando**
 ![C#](https://img.shields.io/badge/-C_Sharp-0175C2?style=flat&logo=c-sharp&logoColor=ffffff) ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=Kotlin&logoColor=ffffff) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=ffffff)
 ![Angular](https://img.shields.io/badge/-Angular-EB391B?style=flat&logo=Angular&logoColor=ffffff) ![Vue.js](https://img.shields.io/badge/-Vue.js-3C873A?style=flat&logo=Vue.js&logoColor=ffffff) 
-![NextJs](https://img.shields.io/badge/-NextJs-000?style=flat&logo=Next.js&logoColor=fff) ![Strapi](https://img.shields.io/badge/-Strapi-2F2E8B?style=flat&logo=Strapi&logoColor=fff) ![Vercel](https://img.shields.io/badge/-Vercel-000?style=flat&logo=Vercel&logoColor=fff)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=fff) ![NextJs](https://img.shields.io/badge/-NextJs-000?style=flat&logo=Next.js&logoColor=fff) ![Strapi](https://img.shields.io/badge/-Strapi-2F2E8B?style=flat&logo=Strapi&logoColor=fff) ![Vercel](https://img.shields.io/badge/-Vercel-000?style=flat&logo=Vercel&logoColor=fff)
 ![React Native](https://img.shields.io/badge/-React_Native-000?style=flat&logo=react&logoColor=61DAFB)
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=ffffff) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=ffffff)
 </div>
@@ -59,4 +59,4 @@ Tenho uma boa experiência com nodeJs através de alguns trabalhos frelancers pa
 
 ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=cledson-leite&theme=dracula&count_lang=10&custom_title=Linguagens_Mais_Usadas) ![Estatisticas](https://github-readme-stats.vercel.app/api?username=cledson-leite&show_icons=true&theme=dracula&custom_title=Minhas_Estatísticas)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cledson-leite&repo=cpf_brasil&theme=dracula)](https://github.com/cledson-leite/cpf_brasil) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cledson-leite&repo=cledson-leite&theme=dracula)](https://github.com/cledson-leite/cledson-leite)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cledson-leite&repo=cpf_brasil&theme=dracula)](https://github.com/cledson-leite/cpf_brasil) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cledson-leite&repo=boilerplateJavascript&theme=dracula)](https://github.com/cledson-leite/boilerplateJavascript)
