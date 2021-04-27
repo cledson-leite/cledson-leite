@@ -55,8 +55,10 @@ Tenho uma boa experiência com nodeJs através de alguns trabalhos frelancers pa
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=ffffff) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=ffffff)
 </div>
 
+
 </div>
 
 ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=cledson-leite&theme=dracula&count_lang=10&custom_title=Linguagens_Mais_Usadas) ![Estatisticas](https://github-readme-stats.vercel.app/api?username=cledson-leite&show_icons=true&theme=dracula&custom_title=Minhas_Estatísticas)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cledson-leite&repo=cpf_brasil&theme=dracula)](https://github.com/cledson-leite/cpf_brasil) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cledson-leite&repo=boilerplate-nodejs&theme=dracula)](https://github.com/cledson-leite/boilerplate-nodejs)
+<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cledson-leite&repo=cpf_brasil&theme=dracula)](https://github.com/cledson-leite/cpf_brasil) -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cledson-leite&repo=boilerplate-nodejs&theme=dracula)](https://github.com/cledson-leite/boilerplate-nodejs) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cledson-leite&repo=teste-sunne-backend&theme=dracula)](https://github.com/cledson-leite/teste-sunne-backend)
