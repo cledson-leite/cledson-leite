@@ -14,21 +14,13 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cledson-leite-223b661a0/) [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:csbetsonline@gmail.com)
 </div>
-
-
-<details>
-  <summary> <b> Coisas para saber sobre mim !! </b> <i>(click to expand!)</i> </summary>
   
 <br>
 
-![Cledson Leite](cover_programmer.jpg)
-
->"Nada neste mundo supera a boa e velha persistência. O talento não supera. Nada mais comum do que falhas talentosas. O gênio não vence. Gênios não reconhecidos é         praticamente um clichê. A educação não excede. O mundo está cheio de tolos educados. Persistência e determinação sozinhas são poderosas."
-
+>"**Nada neste mundo supera a boa e velha persistência. O talento não supera. Nada mais comum do que falhas talentosas. O gênio não vence. Gênios não reconhecidos é         praticamente um clichê. A educação não excede. O mundo está cheio de tolos educados. Persistência e determinação sozinhas são poderosas.**"
+>
 Tenho uma boa experiência com nodeJs através de alguns trabalhos frelancers para alguns paises (India, Paquistão, Portugal, etc) mas principalmente por ter desenvolvido um app mobile em dart flutter com o backend totalmente feito em nodeJS ( desenvolvimento de um crawler que alimentava um database SQL desenvolvido dentro de um container Docker o que facilitou a implementação desta aplicaçao rodando em segundo plano de forma redundante em uma instancia EC2 da AWS, (PostgreeSql), uma api que integrava o database alimentado pelo crawler anterior com o front end, api que integrava o cadastro e controle de acesso do front end com uso de um database NoSql (mongoDb).
 
-
-</details>
 
 <br>
 <div align="center">
