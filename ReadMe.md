@@ -31,7 +31,7 @@ Tenho uma boa experiência com nodeJs através de alguns trabalhos frelancers pa
 <br>
 <div align="center">
   
-![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat&logo=javascript&logoColor=ffffff) ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=Dart&logoColor=ffffff)
+![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat&logo=javascript&logoColor=ffffff) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=fff) ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=Dart&logoColor=ffffff)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000) ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=Redux&logoColor=fff) ![Redux Saga](https://img.shields.io/badge/-Redux_Saga-999999?style=flat&logo=Redux-saga&logoColor=000) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=fff)
 ![Flutter](https://img.shields.io/badge/-Flutter-0175C2?style=flat&logo=Flutter&logoColor=fff)
 ![Node](https://img.shields.io/badge/-NodeJs-339933?style=flat&logo=node.js&logoColor=fff) ![Express](https://img.shields.io/badge/-Express-000?style=flat&logo=Express&logoColor=fff) ![PostgreSql](https://img.shields.io/badge/-PostgreSql-336791?style=flat&logo=PostgreSql&logoColor=fff) ![MongoDb](https://img.shields.io/badge/-MongoDb-47A248?style=flat&logo=MongoDb&logoColor=fff)
@@ -42,7 +42,7 @@ Tenho uma boa experiência com nodeJs através de alguns trabalhos frelancers pa
 ### :book: **Estudando**
 ![C#](https://img.shields.io/badge/-C_Sharp-0175C2?style=flat&logo=c-sharp&logoColor=ffffff) ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=Kotlin&logoColor=ffffff) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=ffffff)
 ![Angular](https://img.shields.io/badge/-Angular-EB391B?style=flat&logo=Angular&logoColor=ffffff) ![Vue.js](https://img.shields.io/badge/-Vue.js-3C873A?style=flat&logo=Vue.js&logoColor=ffffff) 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=fff) ![NextJs](https://img.shields.io/badge/-NextJs-000?style=flat&logo=Next.js&logoColor=fff) ![Strapi](https://img.shields.io/badge/-Strapi-2F2E8B?style=flat&logo=Strapi&logoColor=fff) ![Vercel](https://img.shields.io/badge/-Vercel-000?style=flat&logo=Vercel&logoColor=fff)
+![NextJs](https://img.shields.io/badge/-NextJs-000?style=flat&logo=Next.js&logoColor=fff) ![Strapi](https://img.shields.io/badge/-Strapi-2F2E8B?style=flat&logo=Strapi&logoColor=fff) ![Vercel](https://img.shields.io/badge/-Vercel-000?style=flat&logo=Vercel&logoColor=fff)
 ![React Native](https://img.shields.io/badge/-React_Native-000?style=flat&logo=react&logoColor=61DAFB)
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=ffffff) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=ffffff)
 </div>
