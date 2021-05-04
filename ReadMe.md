@@ -12,7 +12,7 @@
   
 <div align="center">
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cledson-leite-223b661a0/) [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:csbetsonline@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cledson-leite-223b661a0/) [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:csbetsonline@gmail.com)
 </div>
   
 <br>
