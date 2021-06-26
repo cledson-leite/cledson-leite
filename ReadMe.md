@@ -12,7 +12,7 @@
   
 <div align="center">
   
-[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cledson-leite-223b661a0/) [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:csbetsonline@gmail.com)  [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=WhatsApp&logoColor=white)](https://bit.ly/3bKhoo8)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cledson-leite-223b661a0/) [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:csbetsonline@gmail.com)  [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=WhatsApp&logoColor=white)](https://bit.ly/2U9X2io)
 </div>
   
 <br>
@@ -33,7 +33,7 @@ Tenho uma boa experiência com nodeJs através de alguns trabalhos frelancers pa
   
 ![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=ffffff) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=fff)
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=000) ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux&logoColor=fff) ![Redux Saga](https://img.shields.io/badge/-Redux_Saga-999999?style=flat-square&logo=Redux-saga&logoColor=000) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=fff)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=000) ![React Native](https://img.shields.io/badge/-React_Native-000?style=flat-square&logo=react&logoColor=61DAFB) ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux&logoColor=fff) ![Redux Saga](https://img.shields.io/badge/-Redux_Saga-999999?style=flat-square&logo=Redux-saga&logoColor=000) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=fff)
 
 ![Node](https://img.shields.io/badge/-NodeJs-339933?style=flat-square&logo=node.js&logoColor=fff) ![Express](https://img.shields.io/badge/-Express-000?style=flat-square&logo=Express&logoColor=fff) ![PostgreSql](https://img.shields.io/badge/-PostgreSql-336791?style=flat-square&logo=PostgreSql&logoColor=fff) ![MongoDb](https://img.shields.io/badge/-MongoDb-47A248?style=flat-square&logo=MongoDb&logoColor=fff)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=Jest&logoColor=fff) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
@@ -41,12 +41,12 @@ Tenho uma boa experiência com nodeJs através de alguns trabalhos frelancers pa
 <div align="center">
 
 ### :book: **Estudando**
-![C#](https://img.shields.io/badge/-C_Sharp-0175C2?style=flat-square&logo=c-sharp&logoColor=ffffff) ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=ffffff) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=ffffff)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=ffffff) ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=ffffff) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=ffffff)
 
 ![Angular](https://img.shields.io/badge/-Angular-EB391B?style=flat-square&logo=Angular&logoColor=ffffff) ![Vue.js](https://img.shields.io/badge/-Vue.js-3C873A?style=flat-square&logo=Vue.js&logoColor=ffffff) 
 ![NextJs](https://img.shields.io/badge/-NextJs-000?style=flat-square&logo=Next.js&logoColor=fff)
 
-![React Native](https://img.shields.io/badge/-React_Native-000?style=flat-square&logo=react&logoColor=61DAFB)
+
 
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=ffffff) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)
 </div>
@@ -57,4 +57,4 @@ Tenho uma boa experiência com nodeJs através de alguns trabalhos frelancers pa
 ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=cledson-leite&theme=dracula&count_lang=10&custom_title=Linguagens_Mais_Usadas) ![Estatisticas](https://github-readme-stats.vercel.app/api?username=cledson-leite&show_icons=true&theme=dracula&custom_title=Minhas_Estatísticas)
 
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cledson-leite&repo=cpf_brasil&theme=dracula)](https://github.com/cledson-leite/cpf_brasil) -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cledson-leite&repo=calculadora&theme=dracula)](https://github.com/cledson-leite/calculadora) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cledson-leite&repo=crudUsuarios&theme=dracula)](https://github.com/cledson-leite/crudUsuarios) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cledson-leite&repo=gat-dashboard&theme=dracula)](https://github.com/cledson-leite/gat-dashboard)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cledson-leite&repo=calculadora&theme=dracula)](https://github.com/cledson-leite/calculadora) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cledson-leite&repo=crudUsuarios&theme=dracula)](https://github.com/cledson-leite/crudUsuarios) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cledson-leite&repo=bookmanager&theme=dracula)](https://github.com/cledson-leite/bookmanager)
