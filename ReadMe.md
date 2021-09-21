@@ -33,7 +33,9 @@ I have a good experience with nodeJs through some freelance work for some countr
   
 ![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=ffffff) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=fff)
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=000) ![React Native](https://img.shields.io/badge/-React_Native-000?style=flat-square&logo=react&logoColor=61DAFB) ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux&logoColor=fff) ![Redux Saga](https://img.shields.io/badge/-Redux_Saga-999999?style=flat-square&logo=Redux-saga&logoColor=000) ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=Sass&logoColor=fff)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=000) ![React Native](https://img.shields.io/badge/-React_Native-000?style=flat-square&logo=react&logoColor=61DAFB) ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux&logoColor=fff) ![Redux Saga](https://img.shields.io/badge/-Redux_Saga-999999?style=flat-square&logo=Redux-saga&logoColor=000)
+  
+  ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=Sass&logoColor=fff) ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=Webpack&logoColor=000)
 
 ![Node](https://img.shields.io/badge/-NodeJs-339933?style=flat-square&logo=node.js&logoColor=fff) ![Express](https://img.shields.io/badge/-Express-000?style=flat-square&logo=Express&logoColor=fff) ![PostgreSql](https://img.shields.io/badge/-PostgreSql-336791?style=flat-square&logo=PostgreSql&logoColor=fff) ![MongoDb](https://img.shields.io/badge/-MongoDb-47A248?style=flat-square&logo=MongoDb&logoColor=fff)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=Jest&logoColor=fff)
