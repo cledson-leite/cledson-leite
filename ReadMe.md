@@ -44,6 +44,8 @@ I have a good experience with nodeJs through some freelance work for some countr
 
 ### :book: **Studying**
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)
+  
+![WebRTC](https://img.shields.io/badge/-WebRTC-333333?style=flat-square&logo=WebRTC&logoColor=ffffff)
 
 ![NextJs](https://img.shields.io/badge/-NextJs-000?style=flat-square&logo=Next.js&logoColor=fff) ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=ffffff)
 </div>
