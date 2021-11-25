@@ -31,9 +31,11 @@ I have a good experience with nodeJs and ReactJs through some freelance work for
 <br>
 <div align="center">
   
-![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=ffffff) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=fff)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=Dart&logoColor=fff) ![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=ffffff) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=fff)
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=000) ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux&logoColor=fff) ![Redux Saga](https://img.shields.io/badge/-Redux_Saga-999999?style=flat-square&logo=Redux-saga&logoColor=000)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=Flutter&logoColor=fff) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=000)
+
+![MobX](https://img.shields.io/badge/-MobX-FF9955?style=flat-square&logo=MobX&logoColor=fff) ![BloC](https://img.shields.io/badge/-BloC-2496ED?style=flat-square&logo=BloC&logoColor=fff) ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux&logoColor=fff) ![Redux Saga](https://img.shields.io/badge/-Redux_Saga-999999?style=flat-square&logo=Redux-saga&logoColor=000)
   
   ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=Sass&logoColor=fff) ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=Webpack&logoColor=000)
 
