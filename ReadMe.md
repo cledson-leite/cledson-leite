@@ -59,7 +59,7 @@ I have a good experience with nodeJs and ReactJs through some freelance work for
 
 <div align="center">
   
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=cledson-leite&theme=dracula&count_lang=10&custom_title=Most_Used_Languages)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=cledson-leite&theme=dracula&count_lang=10&custom_title=Used_Languages)
 
 ![Estatisticas](https://github-readme-stats.vercel.app/api?username=cledson-leite&show_icons=true&theme=dracula&custom_title=My_Statistics)
   
