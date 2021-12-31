@@ -7,7 +7,7 @@
 
 <div align="center">
 
-**Frontend Developer - Mobile Developer - Backend Developer**
+**Frontend Developer - Mobile Developer**
 </div>
   
 <div align="center">
@@ -17,16 +17,28 @@
   
 <br>
 
->"**Nothing in this world beats good old-fashioned persistence. Talent does not surpass. Nothing more common than talented failures. Genius doesn't win. Unrecognized Genius is practically a cliché. Education does not exceed. The world is full of educated fools. Persistence and determination alone are powerful.**"
+>"**Nada neste mundo supera a boa persistência à moda antiga. O talento não supera. Nada mais comum do que falhas talentosas. O gênio não vence. Gênio não reconhecido é praticamente um clichê. A educação não excede. O mundo está cheio de tolos educados. Persistência e determinação sozinhas são poderosas.**"
 >
-I have a good experience with nodeJs, ReactJs and React Native as well as a full domain in Flutter and Dart, through some freelance work for some countries (India, Pakistan, Portugal, etc.) besides having worked as a frontend developer in a softhouse that provided services for companies in Austria and a successful startup that develops apps for communication via graphics, voice and video conferencing, but mainly for having developed a mobile app in dart flutter with a backend entirely made in nodeJS (development of a crawler that fed a database SQL developed inside a Docker container that facilitated the implementation of this application running in the background redundantly on an EC2 instance of AWS, (PostgreeSql), an api that integrated the database fed by the previous crawler with the front end, api that integrated the front end logging and access control using a NoSql database (mongoDb).
-
+Tenho uma boa experiência com nodeJs, ReactJs e React Native além de Dominio pleno em Flutter e Dart, através de alguns trabalhos freelance para alguns países (Índia, Paquistão, Portugal, etc.) além de ter trabalhado como desenvolvedor frontend em uma softhouse que prestava serviços para empresas na Áustria e um startup de sucesso que desenvolve apps para comunicação via gráfico, voz e videoconferência, mas principalmente por ter desenvolvido um app mobile em dart flutter com backend inteiramente feito em nodeJS (desenvolvimento de um crawler que alimentava um banco de dados SQL desenvolvido dentro de um container Docker que facilitou a implementação do esta aplicação rodando em segundo plano redundantemente em uma instância EC2 de AWS, (PostgreeSql), uma api que integrou o banco de dados alimentado pelo crawler anterior com o front end, api que integrou o registro e controle de acesso do front end usando um banco de dados NoSql ( mongoDb).
+Tenho vivencia com praticas ageis e limpas:
+- TDD (com jest, supertest, cypress, flutter-test, dart-test, bloc-test)
+- Clean code e clean arch
+- Code review e pair program
+Além de ferramentas como
+- Versionamento (git, github e bitbucket)
+-Cloud (aws, google cloud platform, heruko, vercel)
+-Docker e dockerCompose
+- Database Sql e NoSql (PostegreSql, MongoDb)
+Uso da linguagem javascript no front end e no back end através de seus frameworks e bibliotecas:
+- NodeJs(express, sequalize, mongoose)
+- ReactJs e React Native( nextJs, hook, Redux)
+- Dart (flutter)
 
 <br>
 <div align="center">
 
 ### :hammer::wrench:
-### Languages - Frameworks - Tools
+### Linguagens - Frameworks - Ferramentas
 </div>
 <br>
 <div align="center">
@@ -44,7 +56,7 @@ I have a good experience with nodeJs, ReactJs and React Native as well as a full
 </div>
 <div align="center">
 
-### :book: **Studying**
+### :book: **Estudando**
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)
   
 ![WebRTC](https://img.shields.io/badge/-WebRTC-333333?style=flat-square&logo=WebRTC&logoColor=ffffff)
@@ -59,9 +71,9 @@ I have a good experience with nodeJs, ReactJs and React Native as well as a full
 
 <div align="center">
   
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=cledson-leite&theme=dracula&count_lang=10&custom_title=Used_Languages)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=cledson-leite&theme=dracula&count_lang=10&custom_title=Linguagens)
 
-![Estatisticas](https://github-readme-stats.vercel.app/api?username=cledson-leite&show_icons=true&theme=dracula&custom_title=My_Statistics)
+![Estatisticas](https://github-readme-stats.vercel.app/api?username=cledson-leite&show_icons=true&theme=dracula&custom_title=Estatisticas)
   
 </div>
 
