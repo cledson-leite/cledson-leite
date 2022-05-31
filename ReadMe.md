@@ -32,8 +32,8 @@ Além de ferramentas como
 - Database Sql e NoSql (PostegreSql, MongoDb)
 Uso da linguagem javascript no front end e no back end através de seus frameworks e bibliotecas:
 - NodeJs(express, sequalize, mongoose)
-- ReactJs e React Native( nextJs, hook, Redux)
-- Dart (flutter)
+- ReactJs e React Native(hooks, Redux, saga)
+- Dart (flutter, bloc, Provider, Modular)
 
 <br>
 <div align="center">
