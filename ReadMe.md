@@ -19,15 +19,16 @@
 
 >"**Nada neste mundo supera a boa persistência à moda antiga. O talento não supera. Nada mais comum do que falhas talentosas. O gênio não vence. Gênio não reconhecido é praticamente um clichê. A educação não excede. O mundo está cheio de tolos educados. Persistência e determinação sozinhas são poderosas.**"
 >
-Tenho uma boa experiência com nodeJs, ReactJs e React Native além de Dominio pleno em Flutter e Dart, através de alguns trabalhos freelance para alguns países (Índia, Paquistão, Portugal, etc.) além de ter trabalhado como desenvolvedor frontend em uma softhouse que prestava serviços para empresas na Áustria e um startup de sucesso que desenvolve apps para comunicação via gráfico, voz e videoconferência, mas principalmente por ter desenvolvido um app mobile em dart flutter com backend inteiramente feito em nodeJS (desenvolvimento de um crawler que alimentava um banco de dados SQL desenvolvido dentro de um container Docker que facilitou a implementação do esta aplicação rodando em segundo plano redundantemente em uma instância EC2 de AWS, (PostgreeSql), uma api que integrou o banco de dados alimentado pelo crawler anterior com o front end, api que integrou o registro e controle de acesso do front end usando um banco de dados NoSql ( mongoDb).
+Tenho uma boa experiência com nodeJs, ReactJs e React Native além de Dominio pleno em Flutter e Dart, através de alguns trabalhos freelance para alguns países (Índia, Paquistão, Portugal, etc.) e de ter trabalhado como desenvolvedor frontend em uma softhouse que prestava serviços para empresas na Áustria assim como um startup de sucesso que desenvolve apps para comunicação via gráfico, voz e videoconferência, mas principalmente por ter desenvolvido um app mobile em dart flutter com backend inteiramente feito em nodeJS, desenvolvimento de um crawler que alimentava um banco de dados SQL desenvolvido dentro de um container Docker que facilitou a implementação do esta aplicação rodando em segundo plano redundantemente em uma instância EC2 de AWS, (PostgreeSql), uma api que integrou o banco de dados alimentado pelo crawler anterior com o front end, api que integrou o registro e controle de acesso do front end usando um banco de dados NoSql ( mongoDb).
 Tenho vivencia com praticas ageis e limpas:
-- TDD (com jest, supertest, cypress, flutter-test, dart-test, bloc-test)
+- Scrum
+- TDD (com jest, testing-library-React, cypress, flutter-test, dart-test, bloc-test)
 - Clean code e clean arch
 - Code review e pair program
 Além de ferramentas como
-- Versionamento (git, github e bitbucket)
--Cloud (aws, google cloud platform, heruko, vercel)
--Docker e dockerCompose
+- Versionamento (git, github, gitlab e bitbucket)
+- Cloud (aws, google cloud platform, heruko, vercel)
+- Docker e dockerCompose
 - Database Sql e NoSql (PostegreSql, MongoDb)
 Uso da linguagem javascript no front end e no back end através de seus frameworks e bibliotecas:
 - NodeJs(express, sequalize, mongoose)
