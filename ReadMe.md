@@ -42,8 +42,7 @@ Uso da linguagem javascript no front end e no back end através de seus framewor
 <br>
 <div align="center">
 
-### :hammer::wrench:
-### Linguagens - Frameworks - Ferramentas
+### :hammer::wrench:  Linguagens - Frameworks - Ferramentas
 </div>
 <br>
 <div align="center">
