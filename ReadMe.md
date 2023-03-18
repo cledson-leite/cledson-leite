@@ -19,10 +19,10 @@
 
 >"**Nada neste mundo supera a boa persistência à moda antiga. O talento não supera. Nada mais comum do que falhas talentosas. O gênio não vence. Gênio não reconhecido é praticamente um clichê. A educação não excede. O mundo está cheio de tolos educados. Persistência e determinação sozinhas são poderosas.**"
 >
-Tenho uma boa experiência com nodeJs, ReactJs e React Native além de Dominio pleno em Flutter e Dart, através de alguns trabalhos freelance para alguns países (Índia, Paquistão, Portugal, etc.) e de ter trabalhado como desenvolvedor frontend em uma softhouse que prestava serviços para empresas na Áustria assim como um startup de sucesso que desenvolve apps para comunicação via gráfico, voz e videoconferência, mas principalmente por ter desenvolvido um app mobile em dart flutter com backend inteiramente feito em nodeJS, desenvolvimento de um crawler que alimentava um banco de dados SQL desenvolvido dentro de um container Docker que facilitou a implementação do esta aplicação rodando em segundo plano redundantemente em uma instância EC2 de AWS, (PostgreeSql), uma api que integrou o banco de dados alimentado pelo crawler anterior com o front end, api que integrou o registro e controle de acesso do front end usando um banco de dados NoSql ( mongoDb).
+Tenho uma boa experiência com nodeJs e ReactJs além de Dominio pleno em java e springBoot, através de alguns trabalhos freelance para alguns países (Índia, Paquistão, Portugal, etc.) e de ter trabalhado como desenvolvedor fullstack em uma softhouse que prestava serviços para empresas na Áustria assim como um startup de sucesso que desenvolve apps para comunicação via gráfico, voz e videoconferência, mas principalmente por ter desenvolvido um app mobile em react native com backend inteiramente feito em nodeJS, desenvolvimento de um crawler que alimentava um banco de dados SQL desenvolvido dentro de um container Docker que facilitou a implementação do esta aplicação rodando em segundo plano redundantemente em uma instância EC2 de AWS, (PostgreeSql), uma api que integrou o banco de dados alimentado pelo crawler anterior com o front end, api que integrou o registro e controle de acesso do front end usando um banco de dados NoSql ( mongoDb).
 Tenho vivencia com praticas ageis e limpas:
 - Scrum
-- TDD (com jest, testing-library-React, cypress, flutter-test, dart-test, bloc-test)
+- TDD (com jest, testing-library-React, cypress, junit, AssertJ, Mockito, Cucumber, DbUnit)
 - Clean code e clean arch
 - Code review e pair program
 Além de ferramentas como
@@ -30,10 +30,14 @@ Além de ferramentas como
 - Cloud (aws, google cloud platform, heruko, vercel)
 - Docker e dockerCompose
 - Database Sql e NoSql (PostegreSql, MongoDb)
+- Swagger
+- Travis CI, Jenkins
+
 Uso da linguagem javascript no front end e no back end através de seus frameworks e bibliotecas:
 - NodeJs(express, sequalize, mongoose)
-- ReactJs e React Native(hooks, Redux, saga)
-- Dart (flutter, bloc, Provider, Modular)
+- ReactJs (hooks, Redux, saga)
+
+- Java e SpringBoot
 
 <br>
 <div align="center">
@@ -44,29 +48,30 @@ Uso da linguagem javascript no front end e no back end através de seus framewor
 <br>
 <div align="center">
   
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=Dart&logoColor=fff) ![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=ffffff) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=fff)
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=Flutter&logoColor=fff) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=000) ![ReactNative](https://img.shields.io/badge/-ReactNative-000?style=flat-square&logo=react&logoColor=fff)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
 
-![MobX](https://img.shields.io/badge/-MobX-FF9955?style=flat-square&logo=MobX&logoColor=fff) ![BloC](https://img.shields.io/badge/-BloC-2496ED?style=flat-square&logo=BloC&logoColor=fff) ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux&logoColor=fff) ![Redux Saga](https://img.shields.io/badge/-Redux_Saga-999999?style=flat-square&logo=Redux-saga&logoColor=000)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=fff) ![Redux Saga](https://img.shields.io/badge/-Redux_Saga-999999?style=for-the-badge&logo=Redux-saga&logoColor=000)
   
-  ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=Sass&logoColor=fff) ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=Webpack&logoColor=000)
+  ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=fff) ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=000)
 
-![Node](https://img.shields.io/badge/-NodeJs-339933?style=flat-square&logo=node.js&logoColor=fff) ![Express](https://img.shields.io/badge/-Express-000?style=flat-square&logo=Express&logoColor=fff) ![PostgreSql](https://img.shields.io/badge/-PostgreSql-336791?style=flat-square&logo=PostgreSql&logoColor=fff) ![MongoDb](https://img.shields.io/badge/-MongoDb-47A248?style=flat-square&logo=MongoDb&logoColor=fff)
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=Jest&logoColor=fff)
+![Node](https://img.shields.io/badge/-NodeJs-339933?style=for-the-badge&logo=node.js&logoColor=fff) ![Express](https://img.shields.io/badge/-Express-000?style=for-the-badge&logo=Express&logoColor=fff) ![PostgreSql](https://img.shields.io/badge/-PostgreSql-336791?style=for-the-badge&logo=PostgreSql&logoColor=fff) ![MongoDb](https://img.shields.io/badge/-MongoDb-47A248?style=for-the-badge&logo=MongoDb&logoColor=fff) 
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=fff)
+  
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=Jest&logoColor=fff) ![Junit](https://img.shields.io/badge/-Junit-25A162?style=for-the-badge&logo=junit5&logoColor=fff) ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=ffffff)
 
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=fff)
+  
+![TravisCI](https://img.shields.io/badge/-TravisCI-3EAAAF?style=for-the-badge&logo=travisci&logoColor=fff) ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=fff)
 </div>
 <div align="center">
 
 ### :book: **Estudando**
-  ![GoLand](https://img.shields.io/badge/-GoLand-000000?style=flat-square&logo=GoLand&logoColor=ffffff)
+ ![GoLand](https://img.shields.io/badge/-GoLand-000000?style=flat-square&logo=GoLand&logoColor=ffffff)
  
  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)
-  
-![WebRTC](https://img.shields.io/badge/-WebRTC-333333?style=flat-square&logo=WebRTC&logoColor=ffffff)
 
-![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=ffffff)
 </div>
 
 
