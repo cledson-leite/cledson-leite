@@ -7,7 +7,7 @@
 
 <div align="center">
 
-**Frontend Developer - Mobile Developer**
+**FullStack developer**
 </div>
   
 <div align="center">
