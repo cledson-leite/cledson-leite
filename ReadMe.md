@@ -30,7 +30,7 @@ Além de ferramentas como
 - Cloud (aws, google cloud platform, heruko, vercel)
 - Docker e dockerCompose
 - Database Sql e NoSql (PostegreSql, MongoDb)
-- Mensageria (Kafka e RabbitMQ)
+- Mensageria Apache Kafka
 - Swagger
 - Travis CI, Jenkins
 
@@ -58,8 +58,8 @@ Uso da linguagem javascript no front end e no back end através de seus framewor
 
 ![Node](https://img.shields.io/badge/-NodeJs-339933?style=for-the-badge&logo=node.js&logoColor=fff) ![Express](https://img.shields.io/badge/-Express-000?style=for-the-badge&logo=Express&logoColor=fff) ![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=fff)
 
-  ![Apache Kafka](https://img.shields.io/badge/-kafka-231F20?style=for-the-badge&logo=Apachekafka&logoColor=fff) ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=fff)
-
+  ![Apache Kafka](https://img.shields.io/badge/-kafka-231F20?style=for-the-badge&logo=Apachekafka&logoColor=fff)
+  
   ![PostgreSql](https://img.shields.io/badge/-PostgreSql-336791?style=for-the-badge&logo=PostgreSql&logoColor=fff) ![MongoDb](https://img.shields.io/badge/-MongoDb-47A248?style=for-the-badge&logo=MongoDb&logoColor=fff) 
 
   
