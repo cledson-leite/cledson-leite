@@ -35,8 +35,8 @@ Além de ferramentas como
 - Travis CI, Jenkins
 
 Uso da linguagem javascript no front end e no back end através de seus frameworks e bibliotecas:
-- NodeJs(express, sequalize, mongoose)
-- ReactJs (hooks, Redux, saga)
+- NodeJs(express, nestjs, typeorm, mongoose)
+- ReactJs (hooks, Redux, saga, axios, contextApi, nextjs)
 
 - Java e SpringBoot
 
@@ -56,7 +56,7 @@ Uso da linguagem javascript no front end e no back end através de seus framewor
   
   ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=fff) ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=000)
 
-![Node](https://img.shields.io/badge/-NodeJs-339933?style=for-the-badge&logo=node.js&logoColor=fff) ![Express](https://img.shields.io/badge/-Express-000?style=for-the-badge&logo=Express&logoColor=fff) ![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=fff)
+![Node](https://img.shields.io/badge/-NodeJs-339933?style=for-the-badge&logo=node.js&logoColor=fff) ![Express](https://img.shields.io/badge/-Express-000?style=for-the-badge&logo=Express&logoColor=fff) ![NestJS](https://img.shields.io/badge/-nestJS-#E0234E?style=for-the-badge&logo=nestJS&logoColor=fff) ![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=fff)
 
   ![Apache Kafka](https://img.shields.io/badge/-kafka-231F20?style=for-the-badge&logo=Apachekafka&logoColor=fff)
   
