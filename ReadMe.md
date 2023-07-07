@@ -36,7 +36,7 @@ Além de ferramentas como
 
 Uso da linguagem javascript no front end e no back end através de seus frameworks e bibliotecas:
 - NodeJs(express, nestjs, typeorm, mongoose)
-- ReactJs (hooks, Redux, saga, axios, contextApi, nextjs)
+- ReactJs (hooks, Redux, saga, axios, contextApi, axios)
 
 - Java e SpringBoot
 
