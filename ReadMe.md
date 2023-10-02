@@ -69,15 +69,6 @@ Uso da linguagem javascript no front end e no back end através de seus framewor
 </div>
 <div align="center">
 
-### :book: **Estudando**
- ![GoLand](https://img.shields.io/badge/-GoLand-000000?style=flat-square&logo=GoLand&logoColor=ffffff)
- 
- ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)
-
-</div>
-
-
-</div>
 
 <br><br>
 
