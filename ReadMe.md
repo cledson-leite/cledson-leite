@@ -2,12 +2,12 @@
 
 # :wave: print("Olá, Mundo!")
 
-![Cledson Leite](MeuLogo.png)
+![Cledson Leite](eu_mesmo.jpeg)
 </div>
 
 <div align="center">
 
-**FullStack developer**
+# FullStack Developer
 </div>
   
 <div align="center">
@@ -17,32 +17,36 @@
   
 <br>
 
->"**Nada neste mundo supera a boa persistência à moda antiga. O talento não supera. Nada mais comum do que falhas talentosas. O gênio não vence. Gênio não reconhecido é praticamente um clichê. A educação não excede. O mundo está cheio de tolos educados. Persistência e determinação sozinhas são poderosas.**"
+>"**If you tell 10 people your idea and 9 of them say you're crazy, you're probably doing something innovative.**"
 >
-Tenho uma boa experiência com nodeJs e ReactJs, através de alguns trabalhos freelance para alguns países (Índia, Paquistão, Portugal, etc.) e de ter trabalhado como desenvolvedor fullstack em uma softhouse que prestava serviços para empresas na Áustria assim como um startup de sucesso que desenvolve apps para comunicação via gráfico, voz e videoconferência, mas principalmente por ter desenvolvido um app mobile em react native com backend inteiramente feito em nodeJS, desenvolvimento de um crawler que alimentava um banco de dados SQL desenvolvido dentro de um container Docker que facilitou a implementação do esta aplicação rodando em segundo plano redundantemente em uma instância EC2 de AWS, (PostgreeSql), uma api que integrou o banco de dados alimentado pelo crawler anterior com o front end, api que integrou o registro e controle de acesso do front end usando um banco de dados NoSql ( mongoDb).
-Tenho vivencia com praticas ageis e limpas:
+>Nolan Bushnell
+
+I have good experience with nodeJs and ReactJs, through some freelance work for some countries (India, Pakistan, Portugal, etc.) and having worked as a fullstack developer in a softhouse that provided services to companies in Austria as well as a successful startup which develops apps for communication via graphics, voice and video conferencing, but mainly for having developed a mobile app in react native with a backend entirely made in nodeJS, development of a crawler that fed a SQL database developed within a Docker container that facilitated implementation of this application running in the background redundantly on an EC2 instance of AWS, (PostgreeSql), an api that integrated the database fed by the previous crawler with the front end, an api that integrated the registration and access control of the front end using a NoSql database (mongoDb).
+I have experience with agile and clean practices:
 - Scrum
-- TDD (com jest, testing-library-React, cypress, Mockito)
-- Clean code e clean arch
-- Code review e pair program
+- TDD (with jest, testing-library-React, cypress, Mockito)
+- Clean code and clean arch, hexagonal
+- microservice
+- Code review and pair program
   
-Além de ferramentas como:
-- Versionamento (git, github, gitlab)
+In addition to tools such as:
+- Versioning (git, github, gitlab)
 - Cloud (aws, google cloud platform)
-- Docker e dockerCompose
-- Database Sql e NoSql (PostegreSql, Mysql, MongoDb, Redis)
-- Mensageria Apache Kafka
+- Docker and dockerCompose
+- Database Sql and NoSql (PostegreSql, Mysql, MongoDb, Redis)
+- Apache Kafka messaging
 - Swagger
 - Travis CI, Jenkins
 
-Uso da linguagem javascript no front end e no back end através de seus frameworks e bibliotecas:
-- NodeJs(express, nestjs, typeorm, mongoose. prisma)
-- ReactJs (hooks, Redux, saga, axios, contextApi, axios, stylled components)
+Use of the JavaScript language on the front end and back end through its frameworks and libraries:
+- NodeJs (express, nestjs, typeorm, mongoose. prism)
+- ReactJs (hooks, Redux, saga, axios, contextApi, axios, styled components)
+- Java (springboot, springSecurity, kafka, jpa, lombok)
 
 <br>
 <div align="center">
 
-### :hammer::wrench:  Linguagens - Frameworks - Ferramentas
+### :hammer::wrench:  Languages - Frameworks - Tools
 </div>
 <br>
 <div align="center">
