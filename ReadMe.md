@@ -24,8 +24,8 @@
 I have good experience with nodeJs and ReactJs, through some freelance work for some countries (India, Pakistan, Portugal, etc.) and having worked as a fullstack developer in a softhouse that provided services to companies in Austria as well as a successful startup which develops apps for communication via graphics, voice and video conferencing, but mainly for having developed a mobile app in react native with a backend entirely made in nodeJS, development of a crawler that fed a SQL database developed within a Docker container that facilitated implementation of this application running in the background redundantly on an EC2 instance of AWS, (PostgreeSql), an api that integrated the database fed by the previous crawler with the front end, an api that integrated the registration and access control of the front end using a NoSql database (mongoDb).
 I have experience with agile and clean practices:
 - Scrum
-- TDD (with jest, testing-library-React, cypress, Mockito)
-- Clean code and clean arch, hexagonal
+- TDD (jest, testing-library-React, supertest, cypress, Mockito)
+- Clean code and clean arch, hexagonal arch
 - microservice
 - Code review and pair program
   
@@ -40,7 +40,7 @@ In addition to tools such as:
 
 Use of the JavaScript language on the front end and back end through its frameworks and libraries:
 - NodeJs (express, nestjs, typeorm, mongoose. prism)
-- ReactJs (hooks, Redux, saga, axios, contextApi, axios, styled components)
+- ReactJs (nextjs, hooks, Redux, saga, axios, contextApi, axios, styled components)
 - Java (springboot, springSecurity, kafka, jpa, lombok)
 
 <br>
@@ -53,7 +53,7 @@ Use of the JavaScript language on the front end and back end through its framewo
   
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000) ![Nextjs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=fff) ![Redux Saga](https://img.shields.io/badge/-Redux_Saga-999999?style=for-the-badge&logo=Redux-saga&logoColor=000)
   
