@@ -71,8 +71,6 @@
   <img src="https://skillicons.dev/icons?i=js" height="72" alt="javascript logo"  />
   <img width="32" />
   <img src="https://skillicons.dev/icons?i=ts" height="72" alt="typescript logo"  />
-  <img width="32" />
-  <img src="https://skillicons.dev/icons?i=java" height="72" alt="java logo"  />
 </div>
 
 ###
@@ -111,8 +109,6 @@
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="42" alt="express logo"  />
   <img width="16" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge" height="42" alt="nestjs logo"  />
-  <img width="16" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=black&style=for-the-badge" height="42" alt="spring logo"  />
   <img width="16" />
   <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=for-the-badge" height="42" alt="jest logo"  />
 </div>
