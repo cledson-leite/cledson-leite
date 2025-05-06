@@ -71,6 +71,8 @@
   <img src="https://skillicons.dev/icons?i=js" height="72" alt="javascript logo"  />
   <img width="32" />
   <img src="https://skillicons.dev/icons?i=ts" height="72" alt="typescript logo"  />
+  <img width="32" />
+  <img src="https://skillicons.dev/icons?i=go" height="72" alt="go logo"  />
 </div>
 
 ###
